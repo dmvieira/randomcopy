@@ -1,11 +1,17 @@
-randomcopy
+RandomCopy
 ==========
 
 ## Requirements
 
 Needs wxpython. If you want make exe or deb have more requirements
 
-## English:
+## Links
+
+* Linux: http://www.superdownloads.com.br/download/45/randomcopy-linux/
+* Windows: http://www.superdownloads.com.br/download/92/randomcopy/
+* Windows Portable: http://www.superdownloads.com.br/download/186/randomcopy-portable/
+
+## English
 
 One day I was wanting to spend some of my music folders to my phone when I noticed that could not stand to hear the same things they always listened and had many more songs not heard for centuries. When choosing the old songs would realize he did not remember them by name and to listen to a one to know whether they are good and then record the location of them was complicated.
 
@@ -21,7 +27,7 @@ Enjoy!
 
 
 
-## Português: 
+## Português
 
 Certo dia estava querendo passar algumas músicas das minhas pastas para meu celular, quando me reparei que não aguentava mais escutar sempre as mesmas coisas que escutava sempre e que tinha muito mais músicas que não escutava a séculos. Quando ia escolhendo as músicas antigas percebia que não lembrava delas pelo nome e ficar escutando uma a uma pra saber se são boas e depois gravar a localização delas era meio complicado.
 
