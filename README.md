@@ -8,7 +8,7 @@ Copy files randomly. Here is a video with RandomCopy and [TG_GUI](https://github
 
 ## Requirements
 
-Needs wxpython. If you want make exe or deb have more requirements
+Needs wxpython. If you want to make exe or deb, then you need more requirements...
 
 ## Links
 
