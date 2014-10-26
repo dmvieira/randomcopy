@@ -3,7 +3,7 @@ RandomCopy
 
 Copy files randomly. Here is a video with RandomCopy and [TG_GUI](https://github.com/dmvieira/TG_GUI) interaction:
 
-[![RandomCopy and TG_GUI](https://img.youtube.com/vi/FQIJZuF_7mU/0.jpg)](https://www.youtube.com/watch?v=g7FaK7gdK_I)
+[![RandomCopy and TG_GUI](https://img.youtube.com/vi/FQIJZuF_7mU/0.jpg)](https://www.youtube.com/watch?v=FQIJZuF_7mU)
 
 
 ## Requirements
